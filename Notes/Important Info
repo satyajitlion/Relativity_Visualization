@@ -1,0 +1,7 @@
+glBegin() and glEnd() paired with vertices and edges allow to create a 3 dimensional object such as the cube.
+
+The most important functions for this project, however, will be the glTranslatef function which allows the cube to
+travel towards the observer.
+
+
+
